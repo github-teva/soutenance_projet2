@@ -1,0 +1,220 @@
+  <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" , initial-scale=1.0 />
+        <title> téva JOSEPH</title>
+        <link rel="stylesheet" href="style/style.css">
+        <script src="https://kit.fontawesome.com/3e8d52eb19.js" crossorigin="anonymous"></script>
+    </head>
+        <body>
+          <!----------------------Section Sidebar-Left-------------------------------------->
+            <div class="leftcontent">
+            <div class="left">
+            <div class="photo">
+               <img src="images/foto_mini.jpg" alt="Photo téva" />
+            </div>
+          <!-----------------------------Contact-------------------------------------------->
+                <section class="contact">
+                <h2 class="uppercase">Contact</h2>
+                <address>
+                       <p> 
+                          La Rochelle
+                       </p>
+                </address>       
+                <div class="mailbox">
+                       <p>
+                          Email
+                       </p>   
+                       <p>
+                          tjo@gmailcom                 
+                       </p>
+                <div class="website">
+                       <p>
+                       <a href="www.google.fr" target="_blank"> Site google</a>
+                </div>
+                </section>
+                <div class="container-about-me">
+                <article class="a-propos-de-moi">
+                <h2 class="uppercase">à-propos-de-moi"
+                </h2>
+                <p>
+                  La gentillesse dans les mots suscite la confiance.</br>
+                        La gentillesse dans la pensée crée la profondeur.</br>
+                        La gentillesse dans les actes engendre l'amour.</br>
+                        "lao tseu"
+                </p>                     
+
+                        <div class="bandeauGris">
+                        <h2>Contact</h2>
+                    <div class="trait">
+                    </div>
+                    </div>
+                    <ul class="contact">
+                        <li>Adresse</li>
+                        <li>Toulouse France</li>
+                        <li>Téléphone</li>
+                        <li>0670679677</li>
+                        <li>Site web</li>
+                        <li>www.lebonheur.fr </li>
+                        <li>Skype</li>
+                        <li>@sky</li>
+                    </ul>
+                    <div class="bandeauGris">
+                        <h2>A propos de moi</h2>
+                    </div>
+                    <p class="lagentillesse">
+                        La gentillesse dans les mots suscite la confiance.</br>
+                        La gentillesse dans la pensée crée la profondeur.</br>
+                        La gentillesse dans les actes engendre l'amour.</br>
+                        "lao tseu"
+                    </p>
+
+                    <div class="bandeauGris">
+                        <h2>Loisirs</h2>
+                    </div>
+                        <i class="fas fa-biking"></i>
+                        <i class="fas fa-swimmer"></i>
+                        <i class="fas fa-table-tennis"></i>
+                </section>
+            </aside>
+            <!------------------Section Main-menu------------------------------------------->
+                <div id="main">
+                   <h2>
+                     <span class="prenom"> téva</span> <span class="nom"> JOSEPH</span>
+                   </h2>
+                   <figcaption id="Développeurwebfreelance"><h3>Développeur web freelance</h3>
+                      <section>
+                      <div class="formation">
+                         <h2><i class="fas fa-graduation-cap"></i>
+                            FORMATION
+                         </h2>
+                     </div>
+                      <div id="yearsCity">
+                            <h3><i class="far fa-dot-circle"></i> 
+                                   2020-2021 </br> 
+                                   Paris
+                            </h3>
+                      </div>
+                      <div id="openclassrooms"><h3></h3>
+                          <div class="JuniorWebDeveloper"><h4>Junior Web Developer</h4>
+                           <p>
+                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium </br>
+                             temporibus voluptatem sed recusandae error, optio, eum inventore </br>
+                             similique nihil beata ut enim quo soluta itaque, porro animi quas saepe harum? </br>
+                           </p>
+                          </div>
+                          <div id="yearsCity">
+                               <h3><i class="fas fa-circle"></i>  
+                                  2015-2017 </br>
+                                  Toulouse
+                               </h3>
+                          </div>
+                           <div id="btsnrc"><h3>BTS NRC</h3>
+                            <div class="Négociationrelationclient"><h4>Négociation relation client</h4>
+                              <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium </br>
+                                temporibus voluptatem sed recusandae error, optio, eum inventore </br>
+                                similique nihil beata ut enim quo soluta itaque, porro animi quas saepe harum?</br>
+                                -Diplôme obtenu: oui
+                              </p>
+                           </div>
+                      </div>    
+                      </section>
+                      <section>
+                        <div class="experiencesprofessionnelles">
+                         <h2><i class="fas fa-briefcase"></i>
+                            EXPERIENCES PROFESSIONNELLES 
+                         </h2>
+                        </div>
+                        <div id="yearsCity">
+                         <h3><i class="far fa-dot-circle"></i>
+                                  2019-2020 <br>
+                                  La Rochelle
+                         </h3>
+                        </div>
+                        <div id="WebHelp"><h3>WEBHELP</h3>
+                          <div class="Teleconseiller"><h4>Téléconseiller</h4>
+                              <p>
+                                -orientation vers service compétent, information sur les démarches administratives.
+                              </p> 
+                          </div>
+                          <div id="yearsCity">
+                          <h3><i class="fas fa-circle"></i> 
+                                   2018-2019 <br>
+                                   La Rochelle
+                          </h3>
+                          </div>
+                          <div id="Bouygues"><h3>Bouygues</h3>
+                           <div class="ConseillerClientèle"><h4>Conseiller Clientèle</h4> 
+                               <p>
+                                -prise de rendez-vous</br>
+                                -Suivi des clients et prospects/Fidélisation</br>
+                                -Ventes complémentaires (accessoires,assurances,options, chaînes tv...)
+                               </p>
+                           </div>
+                           <div id="yearsCity">
+                           <h3><i class="fas fa-circle"></i> 
+                                   2015-2018 <br>
+                                   la Rochelle
+                           </h3>
+                           </div>
+                           <div id="Orange"><h3>Orange</h3>
+                            <div class=" ConseillerClientèle"><h4>Conseiller Clientèle</h4> 
+                               <p>
+                                -prise de rendez-vous</br>
+                                -Suivi des clients et prospects/Fidélisation</br>
+                                -Ventes complémentaires (accessoires,assurances,options, chaînes tv...)
+                               </p>
+                            </div>
+                            <div id="yearsCity">  
+                            <h3><i class="fas fa-circle"></i> 
+                                    2008-2015 <br>
+                                    Toulouse
+                            </h3>
+                            </div>    
+                            <div id="Fnac"><h3>Fnac</h3>
+                             <div class="ConseillerClientèle"><h4>Conseiller clientèle</h4>
+                                <p>
+                                  Ventes/Suivi des clients/Fildélisation/assurances, extension de garantie...
+                                </p>
+                             </div>
+                             <div id="yearsCity">
+                             <h3><i class="fas fa-circle"></i>
+                                     2004-2008 </br>
+                                     Toulouse
+                             </h3>
+                             </div>
+                             <div id="Hermes"><h3>Hermès</h3>
+                               <div class="VendeurPretaporter"><h4>Vendeur Prêt à porter</h4>
+                                 <p>
+                                    Ventes complémentaires (accessoires)ou produits associés, fidélisation.
+                                </p>
+                             </div>
+                             <!-----------------------------Footer------------------------------------------------>      
+                               
+                               <div class="competencescles">
+                               <h2><i class="fas fa-pen-alt"></i>
+                                    COMPETENCES CLES
+                               </h2>
+                               </div>
+                               <ul>
+                                  <li>Service client</li>
+                                  <li>Ventes complémentaires</li>
+                                  <li>Dépannage & maintenance Informatique/Internet</li>
+                               </ul>
+                                    <div id="Langues">LANGUES</P>
+                                    <div class="Anglais">Anglais</p>
+                                    <p>
+                                       Niveau intermédiaire
+                                    </p> 
+                                    </div>
+                                    <div class="Espagnol">Espagnol</p>
+                                    <p>
+                                       Notions
+                                    </p> 
+                                    </div>
+                                </div>   
+                        </section>
+        </body>
+    </html>
